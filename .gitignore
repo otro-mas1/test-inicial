@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# Propias derivadas
+*.key
+
+
 # C extensions
 *.so
 
